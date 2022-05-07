@@ -1,0 +1,14 @@
+De Eduardo Hurtado para todos:  09:57 PM
+https://drive.google.com/file/d/1UtOfL8tjM8wJ-oErQhSSsrYFQjR-gHWv/view?usp=sharing
+https://drive.google.com/drive/folders/179iCWFdgLifPsJPStzUoavEDXLNxZv9o?usp=sharing
+De Eduardo Hurtado para todos:  10:38 PM
+Insert into CMP_HABILITACIONES (SERVICIO_SOLICITADO,COD_PERFIL,COD_MODULO,COD_FASE,ID_COMPONENTE,ESTADO,DESC_COMPONENTE) values (5259,'PRY','SAP','SAC',13,3,'Guardar');
+
+De mí para todos:  10:41 PM
+4501220547338
+De Eduardo Hurtado para todos:  10:47 PM
+Insert into "cmp_perfil" (BINARIO_PERFIL,COD_PERFIL,DESC_PERFIL) values (5,'PRY','PROYECTOS');
+
+De Eduardo Hurtado para todos:  11:14 PM
+https://drive.google.com/drive/folders/1-GCMQOOrS5DSSNBs6E1KczsTtBvte7A4?usp=sharing
+UPDATE CMP_HABILITACIONES SET ESTADO = 1 WHERE  SERVICIO_SOLICITADO = 5259 AND COD_PERFIL = 'ECU' AND COD_MODULO = 'SAP' AND COD_FASE = 'SAC' AND ID_COMPONENTE = 17 AND ESTADO = 3;
